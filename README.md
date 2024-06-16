@@ -1,6 +1,4 @@
-## Certamen numero 2 
-
-Ciencias de la ingenieria 2: Lenguaje de programación
+## CRUD Django
 
 Para este proyecto en Django utilicé mi sistema operativo ubuntu, en caso de querer clonar mi repositorio, favor hacer lo siguiente para crear un entorno virtual
 
